@@ -1,7 +1,7 @@
 'use strict';
 
 // Substitua pelo seu endereço de e-mail para ativar o formulário.
-const EMAIL_DESTINO = '';
+const EMAIL_DESTINO = 'marcelosantosguaruja@gmail.com';
 
 // Alternância de tema com preferência salva no navegador.
 const themeButton = document.getElementById('themeToggle');
