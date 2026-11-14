@@ -11,8 +11,8 @@ Portfólio pessoal responsivo com apresentação profissional, formação, habil
 HTML5, CSS3, JavaScript e Bootstrap 5.3.3.
 
 ## Links de publicação
-- **Repositório:** substitua pelo endereço do repositório deste portfólio.
-- **Site publicado:** substitua pelo endereço do GitHub Pages deste portfólio.
+- **Repositório:** [substitua pelo endereço do repositório deste portfólio.](https://github.com/marcelosantosguaruja/projeto_portfolio)
+- **Site publicado:** https://marcelosantosguaruja.github.io/projeto_portfolio/index
 
 ## Funcionamento
 O menu leva às seções da página. Na área de projetos, os filtros Todos, Web e Python exibem os cards correspondentes. Os seis cards abrem seus projetos em outra aba: três sites no GitHub Pages e três arquivos Python no GitHub. O formulário prepara um e-mail no aplicativo do visitante após configurar `EMAIL_DESTINO` no arquivo `script.js`.
